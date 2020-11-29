@@ -1,0 +1,259 @@
+c:\users\pc-pro\documents\visual studio 2012\Projects\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe.config
+c:\users\pc-pro\documents\visual studio 2012\Projects\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe
+c:\users\pc-pro\documents\visual studio 2012\Projects\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.pdb
+c:\users\pc-pro\documents\visual studio 2012\Projects\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csprojResolveAssemblyReference.cache
+c:\users\pc-pro\documents\visual studio 2012\Projects\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Properties.Resources.resources
+c:\users\pc-pro\documents\visual studio 2012\Projects\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csproj.GenerateResource.Cache
+c:\users\pc-pro\documents\visual studio 2012\Projects\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.exe
+c:\users\pc-pro\documents\visual studio 2012\Projects\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.pdb
+c:\users\pc-pro\documents\visual studio 2012\Projects\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.menu.resources
+c:\users\pc-pro\documents\visual studio 2012\Projects\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Ajoute.resources
+c:\users\pc-pro\documents\visual studio 2012\Projects\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.attestation.resources
+c:\users\pc-pro\documents\visual studio 2012\Projects\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.authentification.resources
+c:\users\pc-pro\documents\visual studio 2012\Projects\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.badge.resources
+c:\users\pc-pro\documents\visual studio 2012\Projects\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.profil.resources
+c:\users\pc-pro\documents\visual studio 2012\Projects\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.rechercher.resources
+C:\Users\PC-PRO\documents\visual studio 2012\Projects\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.modifier.resources
+C:\Users\vlad\Desktop\Nouveau dossier (4)\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe.config
+C:\Users\vlad\Desktop\Nouveau dossier (4)\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\vlad\Desktop\Nouveau dossier (4)\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\vlad\Desktop\Nouveau dossier (4)\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\vlad\Desktop\Nouveau dossier (4)\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\vlad\Desktop\Nouveau dossier (4)\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csprojResolveAssemblyReference.cache
+C:\Users\vlad\Desktop\Nouveau dossier (4)\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Ajoute.resources
+C:\Users\vlad\Desktop\Nouveau dossier (4)\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.attestation.resources
+C:\Users\vlad\Desktop\Nouveau dossier (4)\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.authentification.resources
+C:\Users\vlad\Desktop\Nouveau dossier (4)\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.badge.resources
+C:\Users\vlad\Desktop\Nouveau dossier (4)\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.menu.resources
+C:\Users\vlad\Desktop\Nouveau dossier (4)\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.profil.resources
+C:\Users\vlad\Desktop\Nouveau dossier (4)\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Properties.Resources.resources
+C:\Users\vlad\Desktop\Nouveau dossier (4)\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.rechercher.resources
+C:\Users\vlad\Desktop\Nouveau dossier (4)\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csproj.GenerateResource.Cache
+C:\Users\PC-PRO\Desktop\youness\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe.config
+C:\Users\PC-PRO\Desktop\youness\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\PC-PRO\Desktop\youness\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\PC-PRO\Desktop\youness\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\PC-PRO\Desktop\youness\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\PC-PRO\Desktop\youness\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csprojResolveAssemblyReference.cache
+C:\Users\PC-PRO\Desktop\youness\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Ajoute.resources
+C:\Users\PC-PRO\Desktop\youness\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.attestation.resources
+C:\Users\PC-PRO\Desktop\youness\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.authentification.resources
+C:\Users\PC-PRO\Desktop\youness\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.badge.resources
+C:\Users\PC-PRO\Desktop\youness\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.menu.resources
+C:\Users\PC-PRO\Desktop\youness\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.profil.resources
+C:\Users\PC-PRO\Desktop\youness\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Properties.Resources.resources
+C:\Users\PC-PRO\Desktop\youness\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.rechercher.resources
+C:\Users\PC-PRO\Desktop\youness\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csproj.GenerateResource.Cache
+C:\Users\PC-PRO\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe.config
+C:\Users\PC-PRO\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\PC-PRO\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\PC-PRO\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\PC-PRO\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\PC-PRO\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csprojResolveAssemblyReference.cache
+C:\Users\PC-PRO\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Ajoute.resources
+C:\Users\PC-PRO\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.attestation.resources
+C:\Users\PC-PRO\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.authentification.resources
+C:\Users\PC-PRO\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.badge.resources
+C:\Users\PC-PRO\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.menu.resources
+C:\Users\PC-PRO\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.profil.resources
+C:\Users\PC-PRO\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Properties.Resources.resources
+C:\Users\PC-PRO\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csproj.GenerateResource.Cache
+C:\Users\PC-PRO\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.SERVICE.resources
+C:\Users\PC-PRO\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.specialite.resources
+C:\Users\vlad\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe.config
+C:\Users\vlad\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\vlad\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\vlad\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\vlad\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\vlad\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csprojResolveAssemblyReference.cache
+C:\Users\vlad\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Ajoute.resources
+C:\Users\vlad\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.attestation.resources
+C:\Users\vlad\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.authentification.resources
+C:\Users\vlad\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.badge.resources
+C:\Users\vlad\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.menu.resources
+C:\Users\vlad\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.profil.resources
+C:\Users\vlad\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Properties.Resources.resources
+C:\Users\vlad\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.SERVICE.resources
+C:\Users\vlad\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.specialite.resources
+C:\Users\vlad\Desktop\edition beta\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csproj.GenerateResource.Cache
+C:\Users\vlad\Desktop\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe.config
+C:\Users\vlad\Desktop\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\vlad\Desktop\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\vlad\Desktop\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\vlad\Desktop\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\vlad\Desktop\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csprojResolveAssemblyReference.cache
+C:\Users\vlad\Desktop\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Ajoute.resources
+C:\Users\vlad\Desktop\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.attestation.resources
+C:\Users\vlad\Desktop\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.authentification.resources
+C:\Users\vlad\Desktop\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.badge.resources
+C:\Users\vlad\Desktop\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.menu.resources
+C:\Users\vlad\Desktop\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.profil.resources
+C:\Users\vlad\Desktop\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Properties.Resources.resources
+C:\Users\vlad\Desktop\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.SERVICE.resources
+C:\Users\vlad\Desktop\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.specialite.resources
+C:\Users\vlad\Desktop\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csproj.GenerateResource.Cache
+C:\Users\vlad\Desktop\edition beta\vderd\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe.config
+C:\Users\vlad\Desktop\edition beta\vderd\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\vlad\Desktop\edition beta\vderd\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\vlad\Desktop\edition beta\vderd\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\vlad\Desktop\edition beta\vderd\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\vlad\Desktop\edition beta\vderd\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csprojResolveAssemblyReference.cache
+C:\Users\vlad\Desktop\edition beta\vderd\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Ajoute.resources
+C:\Users\vlad\Desktop\edition beta\vderd\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.attestation.resources
+C:\Users\vlad\Desktop\edition beta\vderd\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.authentification.resources
+C:\Users\vlad\Desktop\edition beta\vderd\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.badge.resources
+C:\Users\vlad\Desktop\edition beta\vderd\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.menu.resources
+C:\Users\vlad\Desktop\edition beta\vderd\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.profil.resources
+C:\Users\vlad\Desktop\edition beta\vderd\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Properties.Resources.resources
+C:\Users\vlad\Desktop\edition beta\vderd\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.SERVICE.resources
+C:\Users\vlad\Desktop\edition beta\vderd\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.specialite.resources
+C:\Users\vlad\Desktop\edition beta\vderd\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe.config
+C:\Users\lenovo\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\lenovo\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\lenovo\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\lenovo\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\lenovo\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Ajoute.resources
+C:\Users\lenovo\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.attestation.resources
+C:\Users\lenovo\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.authentification.resources
+C:\Users\lenovo\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.badge.resources
+C:\Users\lenovo\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.menu.resources
+C:\Users\lenovo\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.profil.resources
+C:\Users\lenovo\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Properties.Resources.resources
+C:\Users\lenovo\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.SERVICE.resources
+C:\Users\lenovo\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.specialite.resources
+C:\Users\lenovo\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csproj.GenerateResource.Cache
+C:\Users\PC-PRO\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe.config
+C:\Users\PC-PRO\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\PC-PRO\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\PC-PRO\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\PC-PRO\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\PC-PRO\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csprojResolveAssemblyReference.cache
+C:\Users\PC-PRO\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Ajoute.resources
+C:\Users\PC-PRO\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.attestation.resources
+C:\Users\PC-PRO\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.authentification.resources
+C:\Users\PC-PRO\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.badge.resources
+C:\Users\PC-PRO\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.menu.resources
+C:\Users\PC-PRO\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.profil.resources
+C:\Users\PC-PRO\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Properties.Resources.resources
+C:\Users\PC-PRO\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.SERVICE.resources
+C:\Users\PC-PRO\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.specialite.resources
+C:\Users\PC-PRO\Desktop\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csproj.GenerateResource.Cache
+C:\Users\PC-PRO\Desktop\projets du stage\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe.config
+C:\Users\PC-PRO\Desktop\projets du stage\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\PC-PRO\Desktop\projets du stage\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\PC-PRO\Desktop\projets du stage\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\PC-PRO\Desktop\projets du stage\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\PC-PRO\Desktop\projets du stage\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csprojResolveAssemblyReference.cache
+C:\Users\PC-PRO\Desktop\projets du stage\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Ajoute.resources
+C:\Users\PC-PRO\Desktop\projets du stage\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.attestation.resources
+C:\Users\PC-PRO\Desktop\projets du stage\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.authentification.resources
+C:\Users\PC-PRO\Desktop\projets du stage\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.badge.resources
+C:\Users\PC-PRO\Desktop\projets du stage\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.menu.resources
+C:\Users\PC-PRO\Desktop\projets du stage\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.profil.resources
+C:\Users\PC-PRO\Desktop\projets du stage\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Properties.Resources.resources
+C:\Users\PC-PRO\Desktop\projets du stage\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.SERVICE.resources
+C:\Users\PC-PRO\Desktop\projets du stage\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.specialite.resources
+C:\Users\PC-PRO\Desktop\projets du stage\455\Nouveau dossier\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csproj.GenerateResource.Cache
+C:\Users\vlad\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe.config
+C:\Users\vlad\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\vlad\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\vlad\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csprojResolveAssemblyReference.cache
+C:\Users\vlad\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Ajoute.resources
+C:\Users\vlad\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.attestation.resources
+C:\Users\vlad\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.authentification.resources
+C:\Users\vlad\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.badge.resources
+C:\Users\vlad\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.menu.resources
+C:\Users\vlad\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.profil.resources
+C:\Users\vlad\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Properties.Resources.resources
+C:\Users\vlad\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.SERVICE.resources
+C:\Users\vlad\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.specialite.resources
+C:\Users\vlad\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csproj.GenerateResource.Cache
+C:\Users\vlad\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\vlad\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\vlad\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Report.resources
+C:\Users\lenovo\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe.config
+C:\Users\lenovo\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\lenovo\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\lenovo\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\lenovo\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\lenovo\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Ajoute.resources
+C:\Users\lenovo\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.attestation.resources
+C:\Users\lenovo\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.authentification.resources
+C:\Users\lenovo\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.badge.resources
+C:\Users\lenovo\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.menu.resources
+C:\Users\lenovo\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.profil.resources
+C:\Users\lenovo\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Properties.Resources.resources
+C:\Users\lenovo\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Report.resources
+C:\Users\lenovo\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.SERVICE.resources
+C:\Users\lenovo\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.specialite.resources
+C:\Users\lenovo\Desktop\ouael2\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe.config
+C:\Users\lenovo\Desktop\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\lenovo\Desktop\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\lenovo\Desktop\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\lenovo\Desktop\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\lenovo\Desktop\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Ajoute.resources
+C:\Users\lenovo\Desktop\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.attestation.resources
+C:\Users\lenovo\Desktop\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.authentification.resources
+C:\Users\lenovo\Desktop\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.badge.resources
+C:\Users\lenovo\Desktop\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.menu.resources
+C:\Users\lenovo\Desktop\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.profil.resources
+C:\Users\lenovo\Desktop\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Properties.Resources.resources
+C:\Users\lenovo\Desktop\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Report.resources
+C:\Users\lenovo\Desktop\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.SERVICE.resources
+C:\Users\lenovo\Desktop\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.specialite.resources
+C:\Users\lenovo\Desktop\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csproj.GenerateResource.Cache
+C:\Users\PC-PRO\Desktop\dernier projet beta\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe.config
+C:\Users\PC-PRO\Desktop\dernier projet beta\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\PC-PRO\Desktop\dernier projet beta\ouael21\gestion_stagiaire_colaimo\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\PC-PRO\Documents\EGDownloads\bahi youness\gestion_stagiaire_colaimo2\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe.config
+C:\Users\PC-PRO\Documents\EGDownloads\bahi youness\gestion_stagiaire_colaimo2\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\PC-PRO\Documents\EGDownloads\bahi youness\gestion_stagiaire_colaimo2\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\PC-PRO\Documents\EGDownloads\bahi youness\gestion_stagiaire_colaimo2\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Ajoute.resources
+C:\Users\PC-PRO\Documents\EGDownloads\bahi youness\gestion_stagiaire_colaimo2\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.attestation.resources
+C:\Users\PC-PRO\Documents\EGDownloads\bahi youness\gestion_stagiaire_colaimo2\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.authentification.resources
+C:\Users\PC-PRO\Documents\EGDownloads\bahi youness\gestion_stagiaire_colaimo2\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.badge.resources
+C:\Users\PC-PRO\Documents\EGDownloads\bahi youness\gestion_stagiaire_colaimo2\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.menu.resources
+C:\Users\PC-PRO\Documents\EGDownloads\bahi youness\gestion_stagiaire_colaimo2\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.profil.resources
+C:\Users\PC-PRO\Documents\EGDownloads\bahi youness\gestion_stagiaire_colaimo2\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Properties.Resources.resources
+C:\Users\PC-PRO\Documents\EGDownloads\bahi youness\gestion_stagiaire_colaimo2\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Report.resources
+C:\Users\PC-PRO\Documents\EGDownloads\bahi youness\gestion_stagiaire_colaimo2\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.SERVICE.resources
+C:\Users\PC-PRO\Documents\EGDownloads\bahi youness\gestion_stagiaire_colaimo2\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.specialite.resources
+C:\Users\PC-PRO\Documents\EGDownloads\bahi youness\gestion_stagiaire_colaimo2\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csproj.GenerateResource.Cache
+C:\Users\PC-PRO\Documents\EGDownloads\bahi youness\gestion_stagiaire_colaimo2\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\PC-PRO\Documents\EGDownloads\bahi youness\gestion_stagiaire_colaimo2\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\PC-PRO\Documents\EGDownloads\bahi youness\gestion_stagiaire_colaimo2\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csprojResolveAssemblyReference.cache
+C:\Users\Raven\Desktop\ProjectsLink in\gestion_stagiaire_colaimo\bin\Debug\gestion_stagiaire_colaimo.exe.config
+C:\Users\Raven\Desktop\ProjectsLink in\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\Raven\Desktop\ProjectsLink in\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\Raven\Desktop\ProjectsLink in\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csprojResolveAssemblyReference.cache
+C:\Users\Raven\Desktop\ProjectsLink in\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Ajoute.resources
+C:\Users\Raven\Desktop\ProjectsLink in\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.attestation.resources
+C:\Users\Raven\Desktop\ProjectsLink in\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.authentification.resources
+C:\Users\Raven\Desktop\ProjectsLink in\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.badge.resources
+C:\Users\Raven\Desktop\ProjectsLink in\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.menu.resources
+C:\Users\Raven\Desktop\ProjectsLink in\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.profil.resources
+C:\Users\Raven\Desktop\ProjectsLink in\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Properties.Resources.resources
+C:\Users\Raven\Desktop\ProjectsLink in\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.Report.resources
+C:\Users\Raven\Desktop\ProjectsLink in\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.SERVICE.resources
+C:\Users\Raven\Desktop\ProjectsLink in\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.specialite.resources
+C:\Users\Raven\Desktop\ProjectsLink in\gestion_stagiaire_colaimo\obj\Debug\gestion_stagiaire_colaimo.csproj.GenerateResource.Cache
+C:\Users\Raven\Desktop\ProjectsLink in\App\Source code\bin\Debug\gestion_stagiaire_colaimo.exe.config
+C:\Users\Raven\Desktop\ProjectsLink in\App\Source code\obj\Debug\gestion_stagiaire_colaimo.exe
+C:\Users\Raven\Desktop\ProjectsLink in\App\Source code\obj\Debug\gestion_stagiaire_colaimo.pdb
+C:\Users\Raven\Desktop\ProjectsLink in\App\Source code\obj\Debug\gestion_stagiaire_colaimo.csprojResolveAssemblyReference.cache
+C:\Users\Raven\Desktop\ProjectsLink in\App\Source code\obj\Debug\gestion_stagiaire_colaimo.Ajoute.resources
+C:\Users\Raven\Desktop\ProjectsLink in\App\Source code\obj\Debug\gestion_stagiaire_colaimo.attestation.resources
+C:\Users\Raven\Desktop\ProjectsLink in\App\Source code\obj\Debug\gestion_stagiaire_colaimo.authentification.resources
+C:\Users\Raven\Desktop\ProjectsLink in\App\Source code\obj\Debug\gestion_stagiaire_colaimo.badge.resources
+C:\Users\Raven\Desktop\ProjectsLink in\App\Source code\obj\Debug\gestion_stagiaire_colaimo.menu.resources
+C:\Users\Raven\Desktop\ProjectsLink in\App\Source code\obj\Debug\gestion_stagiaire_colaimo.profil.resources
+C:\Users\Raven\Desktop\ProjectsLink in\App\Source code\obj\Debug\gestion_stagiaire_colaimo.Properties.Resources.resources
+C:\Users\Raven\Desktop\ProjectsLink in\App\Source code\obj\Debug\gestion_stagiaire_colaimo.Report.resources
+C:\Users\Raven\Desktop\ProjectsLink in\App\Source code\obj\Debug\gestion_stagiaire_colaimo.SERVICE.resources
+C:\Users\Raven\Desktop\ProjectsLink in\App\Source code\obj\Debug\gestion_stagiaire_colaimo.specialite.resources
+C:\Users\Raven\Desktop\ProjectsLink in\App\Source code\obj\Debug\gestion_stagiaire_colaimo.csproj.GenerateResource.Cache
